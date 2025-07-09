@@ -16,19 +16,19 @@ This is a summary of my learning using the TryHackMe room: https://tryhackme.com
 <p>Description</p>
 <br>
 <p align="center">Step One: <br/>
-  <img src="" height="80%" width="80%" alt="image one"/>
+  <img src="" width="80%" alt="image one"/>
   <br />
   <br />
   Step Two: <br />
-  <img src="" height="80%" width="80%" alt="image two"/>
+  <img src="" width="80%" alt="image two"/>
   <br />
   <br />
   Step Three: <br />
-  <img src="" height="80%" width="80%" alt="image three"/>
+  <img src="" width="80%" alt="image three"/>
    <br />
   <br />
   Step Four: <br />
-  <img src="" height="80%" width="80%" alt="image four"/>
+  <img src="" width="80%" alt="image four"/>
 </p>
 <br />
 <br />
@@ -36,41 +36,41 @@ This is a summary of my learning using the TryHackMe room: https://tryhackme.com
 <p>Description</p>
 <br>
 <p align="center">Step One: <br/>
-  <img src="" height="80%" width="80%" alt="image one"/>
+  <img src="" width="80%" alt="image one"/>
   <br />
   <br />
   Step Two: <br />
-  <img src="" height="80%" width="80%" alt="image two"/>
+  <img src="" width="80%" alt="image two"/>
   <br />
   <br />
   Step Three: <br />
-  <img src="" height="80%" width="80%" alt="image three"/>
+  <img src="" width="80%" alt="image three"/>
    <br />
   <br />
   Step Four: <br />
-  <img src="" height="80%" width="80%" alt="image four"/>
+  <img src="" width="80%" alt="image four"/>
    <br />
   <br />
   Step Five: <br />
-  <img src="" height="80%" width="80%" alt="image five"/>
+  <img src="" width="80%" alt="image five"/>
 </p>
 - <b>HTTP Methods</b>
 <p>Description</p>
 <br>
 <p align="center">Step One: <br/>
-  <img src="" height="80%" width="80%" alt="image one"/>
+  <img src="" width="80%" alt="image one"/>
   <br />
   <br />
   Step Two: <br />
-  <img src="" height="80%" width="80%" alt="image two"/>
+  <img src="" width="80%" alt="image two"/>
   <br />
   <br />
   Step Three: <br />
-  <img src="" height="80%" width="80%" alt="image three"/>
+  <img src="" width="80%" alt="image three"/>
    <br />
   <br />
   Step Four: <br />
-  <img src="" height="80%" width="80%" alt="image four"/>
+  <img src="" width="80%" alt="image four"/>
 </p>
 <br />
 <br />
@@ -78,41 +78,41 @@ This is a summary of my learning using the TryHackMe room: https://tryhackme.com
 <p>Description</p>
 <br>
 <p align="center">Step One: <br/>
-  <img src="" height="80%" width="80%" alt="image one"/>
+  <img src="" width="80%" alt="image one"/>
   <br />
   <br />
   Step Two: <br />
-  <img src="" height="80%" width="80%" alt="image two"/>
+  <img src="" width="80%" alt="image two"/>
   <br />
   <br />
   Step Three: <br />
-  <img src="" height="80%" width="80%" alt="image three"/>
+  <img src="" width="80%" alt="image three"/>
    <br />
   <br />
   Step Four: <br />
-  <img src="" height="80%" width="80%" alt="image four"/>
+  <img src="" width="80%" alt="image four"/>
    <br />
   <br />
   Step Five: <br />
-  <img src="" height="80%" width="80%" alt="image five"/>
+  <img src="" width="80%" alt="image five"/>
 </p>
 - <b>Headers</b>
 <p>Description</p>
 <br>
 <p align="center">Step One: <br/>
-  <img src="" height="80%" width="80%" alt="image one"/>
+  <img src="" width="80%" alt="image one"/>
   <br />
   <br />
   Step Two: <br />
-  <img src="" height="80%" width="80%" alt="image two"/>
+  <img src="" width="80%" alt="image two"/>
   <br />
   <br />
   Step Three: <br />
-  <img src="" height="80%" width="80%" alt="image three"/>
+  <img src="" width="80%" alt="image three"/>
    <br />
   <br />
   Step Four: <br />
-  <img src="" height="80%" width="80%" alt="image four"/>
+  <img src="" width="80%" alt="image four"/>
 </p>
 <br />
 <br />
@@ -120,43 +120,43 @@ This is a summary of my learning using the TryHackMe room: https://tryhackme.com
 <p>Description</p>
 <br>
 <p align="center">Step One: <br/>
-  <img src="" height="80%" width="80%" alt="image one"/>
+  <img src="" width="80%" alt="image one"/>
   <br />
   <br />
   Step Two: <br />
-  <img src="" height="80%" width="80%" alt="image two"/>
+  <img src="" width="80%" alt="image two"/>
   <br />
   <br />
   Step Three: <br />
-  <img src="" height="80%" width="80%" alt="image three"/>
+  <img src="" width="80%" alt="image three"/>
    <br />
   <br />
   Step Four: <br />
-  <img src="" height="80%" width="80%" alt="image four"/>
+  <img src="" width="80%" alt="image four"/>
    <br />
   <br />
   Step Five: <br />
-  <img src="" height="80%" width="80%" alt="image five"/>
+  <img src="" width="80%" alt="image five"/>
 </p>
 - <b>Making Requests</b>
 <p>Description</p>
 <br>
 <p align="center">Step One: <br/>
-  <img src="" height="80%" width="80%" alt="image one"/>
+  <img src="" width="80%" alt="image one"/>
   <br />
   <br />
   Step Two: <br />
-  <img src="" height="80%" width="80%" alt="image two"/>
+  <img src="" width="80%" alt="image two"/>
   <br />
   <br />
   Step Three: <br />
-  <img src="" height="80%" width="80%" alt="image three"/>
+  <img src="" width="80%" alt="image three"/>
    <br />
   <br />
   Step Four: <br />
-  <img src="" height="80%" width="80%" alt="image four"/>
+  <img src="" width="80%" alt="image four"/>
    <br />
   <br />
   Step Five: <br />
-  <img src="" height="80%" width="80%" alt="image five"/>
+  <img src="" width="80%" alt="image five"/>
 </p>
